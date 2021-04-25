@@ -1,4 +1,4 @@
-# Whirlpool-archived-publicdomain
+# Whirlpool-archived-PublicDomain
 
 Whirlpool hash
 
